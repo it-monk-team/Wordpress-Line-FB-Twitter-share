@@ -11,7 +11,7 @@
 
 ### 1. 下載整包 zip ###
 
-![picture alt](https://it-monk.com/wp-content/uploads/2020/05/未命名-2-01.png "it monk")
+![picture alt](https://it-monk.com/wp-content/uploads/2020/05/aabbcc.png "it monk")
 
 ### 2. 進入 WordPress 後台 ###
 
