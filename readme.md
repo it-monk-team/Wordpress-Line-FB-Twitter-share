@@ -19,6 +19,9 @@
 ### 2. 進入 WordPress 後台 ###
 
 外掛 >> 安裝外掛 >> 上傳外掛
+ 
+![picture alt](https://it-monk.com/wp-content/uploads/2020/05/擷取-2.jpg)
+
 
 ### 3. 啟用 ###
 ![picture alt](https://it-monk.com/wp-content/uploads/2020/05/未命名-2.png)
