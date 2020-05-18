@@ -4,7 +4,7 @@ Plugin Name: 超輕量FB LINE TWITTER 分享外掛
 Plugin URI: https://github.com/it-monk-team/Wordpress-Line-FB-Twitter-share
 Description: 超輕量FB LINE TWITTER 分享外掛
 Version: 1.0
-Author: it.monk
+Author: it-monk
 Author URI: https://it-monk.com/
 License: MIT
 */
